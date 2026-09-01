@@ -1,7 +1,7 @@
 {
 	"name": "Para Pau",
 	"short_name": "Para Pau",
-	"description": "Un juego para declarar mi amor",
+	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
